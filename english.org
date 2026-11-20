@@ -20,15 +20,20 @@ opera
 * get turn become grow
 1. The leaves ____ yellow in autumn.
 A. get  B. turn  C. grow  D. become
+
 2. My little brother wants to ____ a doctor in the future.
 A. turn  B. get  C. grow  D. become
+
 3. It is ____ colder and colder in winter.
 A. get  B. turn  C. growing  D. becoming
+
 4. He ____ tall day by day.
 A. grows  B. turns  C. gets  D. becomes
+
 5. Her hair ____ white when she was old.
 A. got  B. turned  C. grew  D. became
 1. B 2. D 3. C 4. A 5. B‌‌
+
 ‌turn‌：描述颜色自然变化（如树叶变黄）固定用 turn + 颜色，是地道搭配 。
 ‌become‌：表示职业、身份的最终转变，常用 become a/an + 职业；turn 后通常不直接接冠词 + 职业名词 。
 ‌growing‌：get/grow/become colder 均可表变冷，但句中已有 is，需填现在分词构成进行时；grow 强调渐进过程，is growing colder 符合“越来越冷”的语境 。
@@ -42,7 +47,7 @@ A. got  B. turned  C. grew  D. became
 ‌get‌：多用于口语，常接比较级或短期状态（get colder/tired/warm）。‌‌
 
 * 英语易混词全集
-** 英语易混词全集·核心篇 PAGE 01 [2026-07-19 Sun 09:39:58]
+** 英语易混词全集·核心篇 - PAGE 01 [2026-07-19 Sun 09:39:58]
 BATCH 01:
 *** A - 核心组
 adapt       适应;改编
@@ -130,7 +135,7 @@ immigrant   移民(移入)
 eminent     杰出的;著名的
 imminent    即将来临的
 记: Eminem(姆爷)是eminent(杰出的)
-** 英语易混词全集·进阶篇 PAGE 02 [2026-07-19 Sun 09:56:38]
+** 英语易混词全集·进阶篇 - PAGE 02 [2026-07-19 Sun 09:56:38]
 *** F - 形近词
 farther     更远(实际距离)
 further     进一步(程度/抽象)
@@ -206,7 +211,7 @@ pray        祈祷
 prey        猎物;捕食
 记: a-amen(阿门); e=eat(吃)
 
-** 英语易混词全集·完结篇 PAGE 03 [2026-07-19 Sun 09:26:57]
+** 英语易混词全集·完结篇 - PAGE 03 [2026-07-19 Sun 09:26:57]
 *** Q & R - 必考词
 quiet       安静的
 quite       相当;很
@@ -272,7 +277,7 @@ on time     准时(按计划)
 apart from  除...之外(包括/不包括均可)
 except      除...之外(不包括)
 besides     除...之外还有(包括)
-** 英语易混词全集·逻辑与语法 PAGE 04 [2026-07-19 Sun 10:10:33]
+** 英语易混词全集·逻辑与语法 - PAGE 04 [2026-07-19 Sun 10:10:33]
 *** 一、时间错觉(Time Traps)
 before long  不久以后(soon)
 long before  很久以前
@@ -337,7 +342,7 @@ steal       偷 (steal sth from sb)
 rob         抢 (rob sb of sth)
 口诀: 偷物抢人(Steal Something, Rob Somebody)
 
-** 英语易混词全集·核心动词与介词 PAGE 05 [2026-07-19 Sun 10:19:05]
+** 英语易混词全集·核心动词与介词 - PAGE 05 [2026-07-19 Sun 10:19:05]
 *** 一、"花费"四兄弟 (Cost/Spend)
 spend       人作主语(spend time/money on)
 cost        物作主语(costs sbmoney)
@@ -404,7 +409,7 @@ arrive in    到达大地点(国家/城市)
 across      横穿(表面, swim across river)
 through     穿过(内部,walk through forest)
 记: Surface表面用across; 3D空间用through
-** 英语易混词全集·词根炸裂篇 PAGE 06 [2026-07-19 Sun 11:00:46]
+** 英语易混词全集·词根炸裂篇 - PAGE 06 [2026-07-19 Sun 11:00:46]
 *** -spect家族    RO0T = Look (看)
 inspect     视察;检查(in=往里看)
 expect      期望(ex=往外看)
@@ -453,7 +458,7 @@ prescribe   开处方(pre=提前写好)
 subscribe   订阅(sub=在下面签字)
 记: script是它的名词形式(manuscript)
 
-** 英语易混词全集·形容词与名词 PAGE 07 [2026-07-19 Sun 11:10:22]
+** 英语易混词全集·形容词与名词 - PAGE 07 [2026-07-19 Sun 11:10:22]
 *** 一、-ed vs -ing (感觉 vs 性质)
 interested  感兴趣的(人feel)
 interesting 有趣的(物is)
@@ -511,7 +516,7 @@ discover   发现(本来就有)
 invent     发明(无中生有)
 例: Columbus discovered America. Bell invented the phone.
 
-** 英语易混词全集·词形黑魔法 PAGE 08 [2026-07-19 Sun 10:52:48]
+** 英语易混词全集·词形黑魔法 - PAGE 08 [2026-07-19 Sun 10:52:48]
 *** 一、+ly 意思大反转(Adverbs)
 hard        努力地;猛烈地(work hard)
 hardly      几乎不(否定词)
@@ -576,7 +581,7 @@ child1like 孩子般的;天真的(褒义)
 sensitive   敏感的(to)
 sensible    明智的(able)
 
-** 英语易混词全集·熟词生义与语法 PAGE 09 [2026-07-19 Sun 11:16:14]
+** 英语易混词全集·熟词生义与语法 - PAGE 09 [2026-07-19 Sun 11:16:14]
 *** 一、熟词生义(Polysemy)
 mean        意味着();刻薄的(adj)
 means       方式;方法(n.单复同形)
@@ -629,7 +634,7 @@ busboy           餐馆勤杂工(不是"公车男")
 lover            情人(不是”爱人/配偶")
 慎:介绍妻子/丈夫用 husband/wife
 
-** 英语易混词全集·最终章 FINALE PAGE 10 [2026-07-19 Sun 10:32:39]
+** 英语易混词全集·最终章 FINALE - PAGE 10 [2026-07-19 Sun 10:32:39]
 *** 一、中式英语排毒(Collocations)
 heavy rain  大雨(不是 big rain)
 strong wind 大风(不是bigwind)
@@ -689,7 +694,7 @@ stop doing  停止做....(不做了)
 forget to do  忘记去做(还没做)
 forget doing  忘记做过(做完了忘了)
 同理: remember to do/remember doing
-** 英语易混词·写作升格篇 DLC PAGE11 [2026-07-19 Sun 10:43:09]
+** 英语易混词·写作升格篇 DLC - PAGE11 [2026-07-19 Sun 10:43:09]
 *** 一、动词高级替换(Level Up)
 get         (Low)得到
 obtain      获得(通过努力/正式)
@@ -769,7 +774,7 @@ psychological 心理的
 166. Let's resume the meeting in ten minutes. 10分钟后继续开会。
 167. We can collect more information first. 我们可以先收集更多信息。
 168. This needs further discussion later. 这件事需要后续进一步讨论。
-169. Let's leave it until tomorrow' s discussion. 留到明天再讨论吧。
+169. Let's leave it until tomorrow's discussion. 留到明天再讨论吧。
 170. We'll revisit this topic next time. 我们下次再重新讨论这个话题。
 
 171. That's all for today's meeting. 今天会议就到这里。
@@ -787,7 +792,7 @@ psychological 心理的
 181. We'll have another meeting next Monday. 我们下周一再开一次会。
 182. Please implement the tasks as soon as possible. 请尽快落实各项任务。
 183. Any last comments before we close? 结束前还有最后要补充的吗?
-184. Great, let's wrap it up here.好，那我们就到这。
+184. Great, let's wrap it up here. 好，那我们就到这。
 185. Looking forward to our good cooperation. 期待我们合作顺利。
 
 186. Would you mind explaining it again? 你介意再解释一遍吗?
@@ -1865,6 +1870,19 @@ peak season ；slack season
 开车路上，前面的车突然变道还不打转向灯，司机气得拍了拍方向盘："It really gets my goat when drivers change lanes without signaling."（当司机变道不打灯时，真的让我很生气。）
 
 邻居每晚都在半夜大声弹钢琴，你顶着黑眼圈对朋友倾诉："I've tried asking him nicely, but the noise still gets my goat."（我已经好言相劝过了，但这噪音还是让我受不了。）
+** 00264 - “漏洞百出”，别说成too many bugs，这2个才是地道说法，美剧里很常见
+刚毕业的小孩儿兴冲冲写完一份方案交上去，结果被领导一页页翻出来挑毛病：数据前后对不上、时间线自相矛盾，对于这种一眼就能发现“漏洞百出”的方案最好检查仔细了再上交。
+那么，“漏洞百出”用英语怎么说呢？如果你是程序员，说成too many bugs应该能理解，哈哈图片，我今天给大家收集了2个美剧里相关的口语，一起来看看吧：
+*** full of holes
+【含义：美剧里表达“漏洞百出”最常用的说法，字面是“全是洞（holes）”，形容说法、理由、方案、故事到处都是破绽，经不起推敲，日常吐槽和正式场合都能用】
+
+例句：His alibi is full of holes—nobody believes a word of it. 他的不在场证明漏洞百出，没人相信一个字。
+
+例句：The article seemed well organized, but the argument turned out to be full of holes. 这篇文章组织得很清晰，但论点其实漏洞百出。
+*** 引申其他一个词： don't hold water
+【含义：字面意思是“装不住水”，可以翻译成“站不住脚”，形容某个论点、解释、借口逻辑不严密、根本立不住，争辩和质疑时用得特别多】
+
+例句：The company's explanation for the delay just doesn't hold water. 公司对这次延误的解释根本站不住脚。
 ** 00261 - “生活费”，别再说成life fee，美剧里这3个才是地道说法
 这是第 00261 篇『这句的英语怎么说』
 
@@ -2013,3 +2031,28 @@ No refunds! 不能退款
 【含义：如果你觉得上一句略显正式，当你把钱递出去的那一刻，可以说这句，省略掉the change，潜台词就是“这（钱）你留着吧”】
 
 例句：You were super helpful with carrying all my heavy luggage upstairs, so please, just keep it. 你帮我把这么重的行李搬上楼真是帮了大忙，所以这钱（零头）请你留着，不用找了。 《大西洋帝国 第三季》
+** 00247 - “跳闸了”，别说成jumped breaker，这2个才是地道说法，美剧里更常用
+这是第 00247 篇『这句的英语怎么说』
+
+正在客厅追着剧，突然啪的一声，整个屋子瞬间黑了，打开手电筒一照才发现是配电箱里的开关“跳闸”了。
+那么，“跳闸”用英语怎么说呢？我今天给大家收集了2个美剧里相关的口语，一起来看看吧：
+*** (breaker) trip
+【含义：美剧中表达“跳闸”最地道最高频的说法，breaker就是电路里的“断路器、空气开关”，也可以说成circuit breaker。trip名词是“旅行”的意思，作为动词，有“触动〔开关〕、绊倒”的意思，指因过载自动跳闸切断电源，用电过载、短路的场景出现率极高】
+
+例句：I was using the microwave and the toaster at the same time and tripped the breaker. 我同时开了微波炉和烤面包机，结果跳闸了。
+
+例句：I think I tripped the breaker by using the hair dryer! 我觉得我一用吹风机就把闸给弄跳了！
+其他相关的表达：
+*** blow a fuse
+【含义：fuse是“保险丝”，blow a fuse就是保险丝烧断导致断电，现在也常用来“比喻人发火”，但聊电路时就是跳闸、保险烧断的意思】
+
+例句：I think we blew a fuse when we plugged in the space heater. 我们插上取暖器的时候好像跳闸烧保险丝了。
+** 00244 - “照镜子”，别说成look mirror，这1个才是地道说法，美剧里更常用
+周末去剪了新发型，完事后托尼老师让“照镜子”，看看效果是不是满意，在镜子前三百六十度转一圈确认没翻车才离开。
+那么，“照镜子”用英语怎么说呢？我今天给大家分享1个常用短语在美剧里的一些应用场景，一起来看看吧：
+*** look in the mirror
+【含义：其实就是“看镜子”，美剧日常场景中表达“照镜子”最基础最高频的说法，就是朝镜子里看自己，不管是整理仪容、臭美、检查妆容，还是严肃地自我审视都适用，日常对话随口就说。也可以说成 take a look in the mirror】
+
+例句：I looked in the mirror before heading out and spotted a coffee stain on my white shirt. 出门前我照了下镜子，发现白衬衫上沾了块咖啡渍。
+
+例句：Sometimes the most honest feedback you’ll ever receive won’t come from a colleague—it will arrive the moment you look in the mirror after a tough decision. 有时你能收到的最真实反馈并非来自同事，而是在重大抉择落定后，你照镜子时与自己的那场清醒对视。
